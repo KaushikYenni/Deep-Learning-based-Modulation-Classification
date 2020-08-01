@@ -1,1 +1,3 @@
 # Deep-Learning-based-Modulation-Classification
+
+In this work, we investigate the value of employing deep learning for the task of wireless signal modulation classiﬁcation. We generate two data sets which simulate an AWGN channel and a Rayleigh channel. We consider a baseline method using cumulants and compare it with the deep learning approach across a varying range of signal-tonoise ratios . We use a convolutional neural network (CNN) architecture, a recurrent neural network (RNN) architecture and a Convolutional Long Short-term Deep Neural Network (CLDNN) architecure for the purpose of classiﬁcation. Finally we conclude with an evalution of the performance of the architectures on the RadioML 2016 dataset.
